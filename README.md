@@ -1,5 +1,5 @@
 # Cryptocurrency-Market-Analysis
-explores an in-depth analysis of the cryptocurrency market using Snowflake, Fivetran, S3 Bucket, and Tableau.
+Explores an in-depth analysis of the cryptocurrency market using Snowflake, Fivetran, S3 Bucket, and Tableau.
 It begins by examining the recent growth in the cryptocurrency market and emphasizes the importance of advanced data analytics tools for analyzing and visualizing crypto data.
 
 The report explains automated data gathering from sources like exchanges, social media, and news, using Snowflake, Fivetran, and S3 Bucket to reduce manual work.
